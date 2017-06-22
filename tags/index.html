@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
@@ -7,7 +7,7 @@
 		<meta name="author" content="Dustin Plunkett">
 		<meta name="description" content="Home Brews and Beer Reviews">
 		<meta name="generator" content="Hugo 0.24" />
-		<title> &middot; Taubin Drinks Beer</title>
+		<title>Tags &middot; Taubin Drinks Beer</title>
 		<link rel="shortcut icon" href="http://taubindrinks.beer/images/favicon.ico">
 		<link rel="stylesheet" href="http://taubindrinks.beer/css/style.css">
 		<link rel="stylesheet" href="http://taubindrinks.beer/css/highlight.css">
@@ -20,8 +20,8 @@
 		
 	</head>
 
-	<body>
-	<nav class="main-nav">
+   <body>
+      <nav class="main-nav">
 	
 	
 		<a href='http://taubindrinks.beer/'> <span class="arrow">←</span>Home</a>
@@ -35,7 +35,7 @@
 	
 </nav>
 
-	<div class="profile">
+      <div class="profile">
     <section id="wrapper">
         <header id="header">
             <a href='http://taubindrinks.beer/about'>
@@ -47,23 +47,44 @@
     </section>
 </div>
 
-	<section id="wrapper" class="home">
-		
-		<div class="archive">
-			<h3>0001</h3>
-			<ul>
-					
-					<div class="post-item">
-						<div class="post-time">Jan 1</div>
-						<a href="http://taubindrinks.beer/about/" class="post-link">
-							About Me
-						</a>
-					</div>
-					
-			</ul>
-		</div>
-		
-		<footer id="footer">
+
+       <section id="wrapper" class="tags">
+           <div class="page-tags" id="tags">
+               
+                <span class="tags">
+                    <a href="/tags/" rel="1">(1)</a>
+                </span>
+               
+                <span class="tags">
+                    <a href="/tags/beer" rel="1">beer(1)</a>
+                </span>
+               
+                <span class="tags">
+                    <a href="/tags/blog" rel="1">blog(1)</a>
+                </span>
+               
+                <span class="tags">
+                    <a href="/tags/hbw" rel="1">hbw(1)</a>
+                </span>
+               
+                <span class="tags">
+                    <a href="/tags/homebrew" rel="1">homebrew(1)</a>
+                </span>
+               
+                <span class="tags">
+                    <a href="/tags/homebrew-wednesday" rel="1">homebrew-wednesday(1)</a>
+                </span>
+               
+                <span class="tags">
+                    <a href="/tags/time4another1" rel="1">time4another1(1)</a>
+                </span>
+               
+                <span class="tags">
+                    <a href="/tags/update" rel="1">update(1)</a>
+                </span>
+               
+           </div>
+           <footer id="footer">
     
         <div id="social">
 
@@ -92,12 +113,9 @@
     </p>
 </footer>
 
-	</section>
+       </section>
 
-	<div class="dd">
-	</div>
-
-	<script src="http://taubindrinks.beer/js/jquery-2.2.4.min.js"></script>
+       <script src="http://taubindrinks.beer/js/jquery-2.2.4.min.js"></script>
 <script src="http://taubindrinks.beer/js/main.js"></script>
 <script src="http://taubindrinks.beer/js/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -108,5 +126,17 @@
 
 
 
-	</body>
+       <script src="http://taubindrinks.beer/js/jquery.tagcloud.js"></script>
+<script type="text/javascript">
+$.fn.tagcloud.defaults = {
+  size: {start: 10, end: 16, unit: 'pt'},
+  color: {start: '#bbb', end: '#f52'}
+};
+
+$(function () {
+  $('#tags a').tagcloud();
+});
+</script>
+
+   </body>
 </html>
