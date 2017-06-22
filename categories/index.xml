@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>admin@taubindrinks.beer (Dustin Plunkett)</managingEditor>
     <webMaster>admin@taubindrinks.beer (Dustin Plunkett)</webMaster>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2015 07:32:24 +0000</lastBuildDate>
     
 	<atom:link href="https://taubindrinks.beer/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beer</title>
+      <link>https://taubindrinks.beer/categories/beer/</link>
+      <pubDate>Wed, 15 Apr 2015 07:32:24 +0000</pubDate>
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
+      <guid>https://taubindrinks.beer/categories/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beer Porn</title>
+      <link>https://taubindrinks.beer/categories/beer-porn/</link>
+      <pubDate>Thu, 09 Apr 2015 06:52:00 +0000</pubDate>
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
+      <guid>https://taubindrinks.beer/categories/beer-porn/</guid>
       <description></description>
     </item>
     
@@ -37,6 +55,15 @@
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
       <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/categories/hbw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homebrewing</title>
+      <link>https://taubindrinks.beer/categories/homebrewing/</link>
+      <pubDate>Wed, 15 Apr 2015 07:32:24 +0000</pubDate>
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
+      <guid>https://taubindrinks.beer/categories/homebrewing/</guid>
       <description></description>
     </item>
     

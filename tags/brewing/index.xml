@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brewing on Taubin Drinks dot Beer</title>
+    <link>https://taubindrinks.beer/tags/brewing/</link>
+    <description>Recent content in Brewing on Taubin Drinks dot Beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@taubindrinks.beer (Dustin Plunkett)</managingEditor>
+    <webMaster>admin@taubindrinks.beer (Dustin Plunkett)</webMaster>
+    <lastBuildDate>Wed, 15 Apr 2015 07:32:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://taubindrinks.beer/tags/brewing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HBW April 15 2015</title>
+      <link>https://taubindrinks.beer/hbw-april-15-2015/</link>
+      <pubDate>Wed, 15 Apr 2015 07:32:24 +0000</pubDate>
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
+      <guid>https://taubindrinks.beer/hbw-april-15-2015/</guid>
+      <description>It&amp;#8217;s Wednesday, and that means, Home Brew Wednesday! In this HBW episode, I talk about my latest (as of yet un-named) beer, the Vanilla Java Stout, as well as a couple of the things that didn&amp;#8217;t go entirely right with brewing this time around. Hold on to your shoelaces, it&amp;#8217;s HBW for April 15th. Cheers!
+{{ &amp;lt; youtube CbRyScMNPCg &amp;gt;}}</description>
+    </item>
+    
+    <item>
+      <title>HBW April 8 2015 – Pumpkin Spice Milk Stout</title>
+      <link>https://taubindrinks.beer/hbw-april-8-2015/https/www.youtube.com/watchvolsnnio8fzm</link>
+      <pubDate>Thu, 09 Apr 2015 06:52:00 +0000</pubDate>
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
+      <guid>https://taubindrinks.beer/hbw-april-8-2015/https/www.youtube.com/watchvolsnnio8fzm</guid>
+      <description>In this episode of HBW, I talk about my latest beer, and try out a Pumpkin Spice Milk Stout from Belching Beaver Brewery. My current homebrew seems to be stuck at 1.022, which seems pretty high. It started out at 1.069 which would make it 6.17% if my calculations were stop on. I&amp;#8217;ve just never had a beer finish that high. I may just keg it and see how it goes, it doesn&amp;#8217;t taste overly sweet or anything.</description>
+    </item>
+    
+  </channel>
+</rss>
