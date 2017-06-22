@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Taubin Drinks Beer</title>
-    <link>https://taubindrinks.beer/categories/</link>
+    <link>http://taubindrinks.beer/categories/</link>
     <description>Recent content in Categories on Taubin Drinks Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Dec 2015 02:33:39 +0000</lastBuildDate>
     
-	<atom:link href="https://taubindrinks.beer/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://taubindrinks.beer/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://taubindrinks.beer/categories/about/</link>
+      <link>http://taubindrinks.beer/categories/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://taubindrinks.beer/categories/about/</guid>
+      <guid>http://taubindrinks.beer/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://taubindrinks.beer/categories/blog/</link>
+      <link>http://taubindrinks.beer/categories/blog/</link>
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
       
-      <guid>https://taubindrinks.beer/categories/blog/</guid>
+      <guid>http://taubindrinks.beer/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hbw</title>
-      <link>https://taubindrinks.beer/categories/hbw/</link>
+      <link>http://taubindrinks.beer/categories/hbw/</link>
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
       
-      <guid>https://taubindrinks.beer/categories/hbw/</guid>
+      <guid>http://taubindrinks.beer/categories/hbw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Update</title>
-      <link>https://taubindrinks.beer/categories/update/</link>
+      <link>http://taubindrinks.beer/categories/update/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://taubindrinks.beer/categories/update/</guid>
+      <guid>http://taubindrinks.beer/categories/update/</guid>
       <description></description>
     </item>
     

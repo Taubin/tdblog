@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Taubin Drinks Beer</title>
-    <link>https://taubindrinks.beer/tags/blog/</link>
+    <link>http://taubindrinks.beer/tags/blog/</link>
     <description>Recent content in Blog on Taubin Drinks Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://taubindrinks.beer/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://taubindrinks.beer/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog changes</title>
-      <link>https://taubindrinks.beer/post/2017-06-22-blog-change/</link>
+      <link>http://taubindrinks.beer/post/2017-06-22-blog-change/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://taubindrinks.beer/post/2017-06-22-blog-change/</guid>
+      <guid>http://taubindrinks.beer/post/2017-06-22-blog-change/</guid>
       <description>Blog changes I&amp;rsquo;m making some changes to the blog, and moving it from wordpress to Hugo. There are many techinical reasons for this, which I will get to on my personal blog
 In the meantime, I need to change the posts so they are able to be posted properly in markdown format.
 The old posts and pages will be back, I promise. I will get them up as soon as I can, in the meantime if you have any questions or are looking for any of the old recipes, please email me at taubin at taubindrinks.</description>
