@@ -8,6 +8,7 @@
     <language>en-us</language>
     <managingEditor>admin@taubindrinks.beer (Dustin Plunkett)</managingEditor>
     <webMaster>admin@taubindrinks.beer (Dustin Plunkett)</webMaster>
+    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://taubindrinks.beer/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
     <item>
       <title>Blog changes</title>
       <link>https://taubindrinks.beer/post/2017-06-22-blog-change/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/post/2017-06-22-blog-change/</guid>
       <description>Blog changes I&amp;rsquo;m making some changes to the blog, and moving it from wordpress to Hugo. There are many techinical reasons for this, which I will get to on my personal blog
