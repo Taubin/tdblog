@@ -23,13 +23,12 @@
   </url>
   
   <url>
-    <loc>https://taubindrinks.beer/about/</loc>
-    <lastmod>2014-05-12T02:23:42+00:00</lastmod>
+    <loc>https://taubindrinks.beer/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://taubindrinks.beer/tags/</loc>
-    <priority>0</priority>
+    <loc>https://taubindrinks.beer/about/</loc>
   </url>
   
   <url>
@@ -43,7 +42,6 @@
   
   <url>
     <loc>https://taubindrinks.beer/about/</loc>
-    <lastmod>2014-05-12T02:23:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
