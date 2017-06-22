@@ -39,9 +39,18 @@
   </url>
   
   <url>
+    <loc>https://taubindrinks.beer/tags/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://taubindrinks.beer/categories/blog/</loc>
     <lastmod>2015-12-01T02:33:39+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taubindrinks.beer/post/2017-06-22-blog-change/</loc>
   </url>
   
   <url>
@@ -95,6 +104,16 @@
   <url>
     <loc>https://taubindrinks.beer/tags/time4another1/</loc>
     <lastmod>2015-12-01T02:33:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taubindrinks.beer/tags/update/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taubindrinks.beer/categories/update/</loc>
     <priority>0</priority>
   </url>
   

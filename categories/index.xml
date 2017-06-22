@@ -38,5 +38,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Update</title>
+      <link>https://taubindrinks.beer/categories/update/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taubindrinks.beer/categories/update/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
