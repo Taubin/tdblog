@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Supercharger-apas on Taubin Drinks dot Beer</title>
+    <title>Supercharger-apas on Taubin Drinks Beer</title>
     <link>https://taubindrinks.beer/supercharger-apa/</link>
-    <description>Recent content in Supercharger-apas on Taubin Drinks dot Beer</description>
+    <description>Recent content in Supercharger-apas on Taubin Drinks Beer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 03 Dec 2015 04:15:09 +0000</lastBuildDate>
     
 	<atom:link href="https://taubindrinks.beer/supercharger-apa/index.xml" rel="self" type="application/rss+xml" />
