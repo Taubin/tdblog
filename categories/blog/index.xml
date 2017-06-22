@@ -5,7 +5,9 @@
     <link>https://taubindrinks.beer/categories/blog/</link>
     <description>Recent content in Blog on Taubin Drinks dot Beer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <managingEditor>admin@taubindrinks.beer (Dustin Plunkett)</managingEditor>
+    <webMaster>admin@taubindrinks.beer (Dustin Plunkett)</webMaster>
     <lastBuildDate>Tue, 01 Dec 2015 02:33:39 +0000</lastBuildDate>
     
 	<atom:link href="https://taubindrinks.beer/categories/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>HBW – Rest in Peace Paul Wicksteed (Time4Another1)</title>
       <link>https://taubindrinks.beer/time4another1/</link>
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/time4another1/</guid>
       <description>This week, the homebrewing community lost a prominent member. Paul Wicksteed, know by a lot of people as Time4Another1 passed away. Paul&amp;rsquo;s passing has been very shocking for all of us. My thoughts and prayers go out to Paul&amp;rsquo;s family and friends. The wounds will heal, even if they never go away. I hope wherever Paul is, the beer is some of the best he&amp;rsquo;s ever had. Rest in Peace friend, for now, it&amp;rsquo;s Time4Another1 in your honor.</description>
     </item>
@@ -24,7 +26,7 @@
       <title>Blog changes</title>
       <link>https://taubindrinks.beer/post/2017-06-22-blog-change/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/post/2017-06-22-blog-change/</guid>
       <description>Blog changes I&amp;rsquo;m making some changes to the blog, and moving it from wordpress to Hugo. There are many techinical reasons for this, which I will get to on my personal blog
 In the meantime, I need to change the posts so they are able to be posted properly in markdown format.

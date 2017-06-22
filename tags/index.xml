@@ -5,7 +5,9 @@
     <link>https://taubindrinks.beer/tags/</link>
     <description>Recent content in Tags on Taubin Drinks dot Beer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <managingEditor>admin@taubindrinks.beer (Dustin Plunkett)</managingEditor>
+    <webMaster>admin@taubindrinks.beer (Dustin Plunkett)</webMaster>
     <lastBuildDate>Tue, 01 Dec 2015 02:33:39 +0000</lastBuildDate>
     
 	<atom:link href="https://taubindrinks.beer/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title></title>
       <link>https://taubindrinks.beer/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/tags/</guid>
       <description></description>
     </item>
@@ -24,7 +26,7 @@
       <title>Beer</title>
       <link>https://taubindrinks.beer/tags/beer/</link>
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/tags/beer/</guid>
       <description></description>
     </item>
@@ -33,7 +35,7 @@
       <title>Blog</title>
       <link>https://taubindrinks.beer/tags/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/tags/blog/</guid>
       <description></description>
     </item>
@@ -42,7 +44,7 @@
       <title>Hbw</title>
       <link>https://taubindrinks.beer/tags/hbw/</link>
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/tags/hbw/</guid>
       <description></description>
     </item>
@@ -51,7 +53,7 @@
       <title>Homebrew</title>
       <link>https://taubindrinks.beer/tags/homebrew/</link>
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/tags/homebrew/</guid>
       <description></description>
     </item>
@@ -60,7 +62,7 @@
       <title>Homebrew Wednesday</title>
       <link>https://taubindrinks.beer/tags/homebrew-wednesday/</link>
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/tags/homebrew-wednesday/</guid>
       <description></description>
     </item>
@@ -69,7 +71,7 @@
       <title>Time4another1</title>
       <link>https://taubindrinks.beer/tags/time4another1/</link>
       <pubDate>Tue, 01 Dec 2015 02:33:39 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/tags/time4another1/</guid>
       <description></description>
     </item>
@@ -78,7 +80,7 @@
       <title>Update</title>
       <link>https://taubindrinks.beer/tags/update/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>admin@taubindrinks.beer (Dustin Plunkett)</author>
       <guid>https://taubindrinks.beer/tags/update/</guid>
       <description></description>
     </item>
